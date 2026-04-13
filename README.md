@@ -1,17 +1,37 @@
-# Heart-Disease-Data-Analysis-EDA
+# ❤️ Heart Disease Data Analysis (Python)
 
-❤️ Heart Disease Data Analysis & EDA
-A Python-based data analysis project focused on exploring and preprocessing a heart disease dataset using Exploratory Data Analysis (EDA) techniques.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Type](https://img.shields.io/badge/Project-Data%20Analysis-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
-✨ Features
-Data cleaning and preprocessing
-Handling categorical and numerical features
-Exploratory Data Analysis (EDA)
-Insights from heart disease dataset
+A Python-based data analysis project on a heart disease dataset to perform data cleaning, exploratory data analysis (EDA), and visualization.
 
-🛠️ Tech Stack
-Python
-Pandas, NumPy
-Matplotlib / Seaborn
-CSV Dataset (heart.csv)
- 
+---
+
+## 📂 Dataset
+- Heart disease dataset (heart.csv)  
+- Includes features like age, chest pain type, cholesterol, and heart disease status  
+
+---
+
+## ✨ Features
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Correlation analysis  
+- Data visualization using graphs  
+
+---
+
+## 🛠️ Tech Stack
+- Python 🐍  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+
+---
+
+## ⚙️ How to Run
+
+```bash
+git clone https://github.com/Harishita-Singh/heart-disease-analysis.git
+cd heart-disease-analysis
+python heart.py
